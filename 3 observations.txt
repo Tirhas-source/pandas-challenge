@@ -1,0 +1,4 @@
+You must include a written description of three observable trends based on the data.
+1. Majority of HeroesOfPymoli players are men at 83.59%
+2. 76.74 % of the players range from age 15-29 
+3. Most popular items are Final Critic and Oathbreaker, Last Hope of the Breaking Storm
